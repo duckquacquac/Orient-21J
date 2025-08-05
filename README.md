@@ -5,8 +5,8 @@ Identification of Components of Orient 21J 46931 Movement
 Include: Rotor, Rotor plate, bearing 
 Function: The unbalanced rotor rotates around the central point when swung, combined with other mechanisms in the automatic winding module, wind the spring. 
 Located: Top of the movement side. 
-![Setting mechanism in normal position](https://github.com/user-attachments/assets/90fe58a8-70be-41a3-ab88-031aab72d3e8 = 250x250)
-
+![Setting mechanism in normal position](https://github.com/user-attachments/assets/90fe58a8-70be-41a3-ab88-031aab72d3e8 = 250x250
+<img src = https://github.com/user-attachments/assets/90fe58a8-70be-41a3-ab88-031aab72d3e8 width = 250>
 
 Picture 1: Rotor attached to rotor bridge 
 
