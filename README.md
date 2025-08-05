@@ -5,7 +5,7 @@ Identification of Components of Orient 21J 46931 Movement
 Include: Rotor, Rotor plate, bearing 
 Function: The unbalanced rotor rotates around the central point when swung, combined with other mechanisms in the automatic winding module, wind the spring. 
 Located: Top of the movement side. 
-![Setting mechanism in normal position](https://github.com/user-attachments/assets/90fe58a8-70be-41a3-ab88-031aab72d3e8)
+![Setting mechanism in normal position](https://github.com/user-attachments/assets/90fe58a8-70be-41a3-ab88-031aab72d3e8 = 250x250)
 
 
 Picture 1: Rotor attached to rotor bridge 
@@ -64,13 +64,11 @@ Function: Setting the time, day and date. Winding the barrel
 Components: Stem and clutch. Setting lever and setting lever spring. Setting lever cover plate 
 Location: Sandwiched in the middle of the movement, on the dial size of the main plate. 
 
- 
+Picture 16: Setting mechanism in normal position  
 
-Picture xxx: Setting mechanism in normal position  
+Picture 17: Setting mechanism in setting position 
 
-Picture yyy: Setting mechanism in setting position 
-
-Picture zzz: Setting mechanism without cover plate 
+Picture 18: Setting mechanism without cover plate 
 
  
 
@@ -79,15 +77,15 @@ Function: Telling the day of the month
 Components: Day wheel, Day corrector wheel, Day jumper spring, Day disc 
 Location: Top of the dial size 
 
-Pic: Full assembly of the day disc 
+Picture 19: Full assembly of the day disc 
 
-Pic: Before assembling the day disc module 
+Picture 20: Before assembling the day disc module 
 
 7. Day of the week module 
 Function: Show the day of the week 
 Components: Day-of-the-week disc, jumper spring, day star 
 Location: On top of the day disc module, separated by the Calendar Spacer Plate 
 
-Picture: Day of the week module, complete 
+Picture 21: Day of the week module, complete 
 
-Picture: Day of the week module, without day disc. 
+Picture 22: Day of the week module, without day disc. 
