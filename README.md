@@ -1,5 +1,36 @@
 # Identification of Components of Orient 21J 46931 Movement
 
+
+
+This project documents the disassembly and analysis of the Orient 21-Jewel 46931 mechanical watch movement.
+
+## 📄 Overview
+
+The goal is to identify and understand each main module of the movement, how they fit together, and how they function within the timekeeping system.
+
+**Current deliverable:**  
+✅ A 23-page teardown PDF showing the full movement disassembled, with labeled parts and rough functional descriptions.
+
+## 🔧 Modules Covered
+
+- Automatic Winding Module
+- Barrel and Mainspring
+- Gear Train
+- Escapement
+- Setting Mechanism
+- Calendar and Day Modules
+
+## 🧠 Next Steps
+
+- Photograph individual components in detail
+- Dig deep into the simulation of the components
+
+## 🙏 Feedback Welcome
+
+This is a work-in-progress teardown. If you're a watchmaker, engineer, or hobbyist — feel free to open an issue or suggest improvements!
+
+
+
 ## 1. Automatic Winding Module
 **Include:** Rotor, Rotor plate, bearing  
 **Function:** The unbalanced rotor rotates around the central point when swung. Combined with other mechanisms in the automatic winding module, it winds the spring.  
