@@ -7,8 +7,8 @@
 
 ![Picture 1: Rotor attached to rotor bridge](https://github.com/user-attachments/assets/3102a2d8-8238-48ba-a1b4-e1e575f669db)
 Picture 1: Rotor attached to rotor bridge
-
-Picture 2: Movement before removal of part  
+![Picture 2: Movement before removal of part (Image credit: Internet. I forgot to take a picture before taking it apart)](https://github.com/user-attachments/assets/3102a2d8-8238-48ba-a1b4-e1e575f669db)
+Picture 2: Movement before removal of part  (Image credit: Internet. I forgot to take a picture before taking it apart)
 ![Picture 3: Movement after removal of part](https://github.com/user-attachments/assets/f69c7553-d1e9-4711-8b6a-d73f6ab3a216)
 Picture 3: Movement after removal of part
 
